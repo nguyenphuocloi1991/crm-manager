@@ -1,0 +1,5 @@
+export const baseURL = "http://localhost:3001/api/shop"
+// export const conceptRoomImageURL = "http://180.67.204.97:3001/uploads/concept_room"
+// export const mainWebURL = "https://amante.co.kr/shop"
+// export const baseImageUrl = "http://180.67.204.97:3001/uploads"
+// export const mainWebImageURL = "https://amante.co.kr/uploads"
