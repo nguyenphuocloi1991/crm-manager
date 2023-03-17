@@ -17,7 +17,6 @@ function App() {
                         <Route path="/manager/dashboard" element={<Dashboard />} />
                     </Routes>
                 </BrowserRouter>
-            <ReactQueryDevtools />
         </QueryClientProvider>
     );
 }
